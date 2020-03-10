@@ -1,0 +1,49 @@
+* body{
+    display: flex;
+    padding: 50px;
+    margin-top: 30px;
+    border: 5px solid grey;
+    justify-content: space-around;
+    
+  }
+
+  
+  .spman,.wondwmn{
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    border: 2px solid black;
+    background-repeat: no-repeat;
+    text-align: center;
+  }
+  
+  /*.wondwmn{
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    border: 2px solid yellow;
+    background-repeat: no-repeat;
+    text-align: center;
+  }*/
+  
+  .captamrca,.gemwmn{
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    border: 2px solid green;
+    background-repeat: no-repeat;
+    text-align: center;
+  }
+  
+  /*.gemwmn{
+    padding: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    border: 2px solid orangered;
+    background-repeat: no-repeat;
+    text-align: center;
+  }*/
+
+  .foot{
+      margin-bottom: 5px;
+  }
